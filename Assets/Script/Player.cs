@@ -13,6 +13,15 @@ public class Player : MonoBehaviour
     }
 
     // Update is called once per frame
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            Debug.Log("Open Inventory");
+        }
+    }
+
+    
     void FixedUpdate()
     {
         float horizontal = Input.GetAxis("Horizontal");
@@ -22,5 +31,7 @@ public class Player : MonoBehaviour
         moveDirection *= speed * Time.deltaTime;
 
         rb.linearVelocity = moveDirection;
+
+        
     }
 }
