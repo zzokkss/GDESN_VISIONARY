@@ -6,7 +6,7 @@ public class RemMovement : MonoBehaviour
     float horizontal;
     float vertical;
 
-    public Animator anim;
+    Animator anim;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -18,8 +18,8 @@ public class RemMovement : MonoBehaviour
     void Update()
     {
         //movement controls linked to idle and walk animation transitions
-        horizontal = Input.GetAxis("Horizontal");
-        vertical = Input.GetAxis("Vertical");
+        horizontal = Input.GetAxisRaw("Horizontal");
+        vertical = Input.GetAxisRaw("Vertical");
         if (horizontal != 0 || vertical != 0)
         {
             anim.SetBool("isWalking", true);
@@ -29,6 +29,7 @@ public class RemMovement : MonoBehaviour
         {
             anim.SetBool("isWalking", false);
         }
+
 
         anim.SetFloat("horizontal", horizontal);
         anim.SetFloat("vertical", vertical);

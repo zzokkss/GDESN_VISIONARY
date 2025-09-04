@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class RemAction : MonoBehaviour
 {
-    public Animator anim;
+    Animator anim;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
