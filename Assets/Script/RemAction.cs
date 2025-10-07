@@ -2,7 +2,12 @@ using UnityEngine;
 
 public class RemAction : MonoBehaviour
 {
+    //Variables
+    public bool isActive = false;
+
+    //Reference
     Animator anim;
+    [SerializeField] GameObject inventory;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -17,7 +22,18 @@ public class RemAction : MonoBehaviour
         {
             bool current = anim.GetBool("openInventory");
             anim.SetBool("openInventory", !current);
+            isActive = !isActive;
+
         }
-        
+
+        if (isActive == true)
+        {
+            inventory.SetActive(true);
+        }
+        else
+        {
+            inventory.SetActive(false);
+        }
+
     }
 }
