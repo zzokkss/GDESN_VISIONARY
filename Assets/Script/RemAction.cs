@@ -22,18 +22,8 @@ public class RemAction : MonoBehaviour
         {
             bool current = anim.GetBool("openInventory");
             anim.SetBool("openInventory", !current);
-            isActive = !isActive;
-
         }
-
-        if (isActive == true)
-        {
-            inventory.SetActive(true);
-        }
-        else
-        {
-            inventory.SetActive(false);
-        }
+        //To pick up items, :PLAYER: presses E. Putting this code in Keycard Scripts
 
     }
 }
