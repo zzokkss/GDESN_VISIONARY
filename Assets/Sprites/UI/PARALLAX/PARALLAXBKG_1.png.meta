@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: 55b09cb4a1b5d34499dc4d98df3549c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2753298856147140216
+    second: PARALLAXBKG_1_0
+  - first:
+      213: -8713118536666405525
+    second: PARALLAXBKG_1_1
+  - first:
+      213: 2660644414251955546
+    second: PARALLAXBKG_1_2
+  - first:
+      213: 340369350950166224
+    second: PARALLAXBKG_1_3
+  - first:
+      213: -1111811694899249424
+    second: PARALLAXBKG_1_4
+  - first:
+      213: -580750332189939070
+    second: PARALLAXBKG_1_5
+  - first:
+      213: 442244218081829815
+    second: PARALLAXBKG_1_6
+  - first:
+      213: 1402615353902423942
+    second: PARALLAXBKG_1_7
+  - first:
+      213: 4150078451307703801
+    second: PARALLAXBKG_1_8
+  - first:
+      213: 2974680697728431709
+    second: PARALLAXBKG_1_9
+  - first:
+      213: -4481166055278582362
+    second: PARALLAXBKG_1_10
+  - first:
+      213: -4306926119046210126
+    second: PARALLAXBKG_1_11
+  - first:
+      213: -6489268549656773500
+    second: PARALLAXBKG_1_12
+  - first:
+      213: -8862029570066515327
+    second: PARALLAXBKG_1_13
+  - first:
+      213: -4456990011867206825
+    second: PARALLAXBKG_1_14
+  - first:
+      213: 8917574322027433687
+    second: PARALLAXBKG_1_15
+  - first:
+      213: -4092383722157092761
+    second: PARALLAXBKG_1_16
+  - first:
+      213: -3862664940438249420
+    second: PARALLAXBKG_1_17
+  - first:
+      213: -9007069048896827930
+    second: PARALLAXBKG_1_18
+  - first:
+      213: -6901123339554714935
+    second: PARALLAXBKG_1_19
+  - first:
+      213: 8031800911446906502
+    second: PARALLAXBKG_1_20
+  - first:
+      213: 1952818453994939581
+    second: PARALLAXBKG_1_21
+  - first:
+      213: 3470429572234489607
+    second: PARALLAXBKG_1_22
+  - first:
+      213: -6356675924035677587
+    second: PARALLAXBKG_1_23
+  - first:
+      213: -4623958648723023433
+    second: PARALLAXBKG_1_24
+  - first:
+      213: -8049385959251113743
+    second: PARALLAXBKG_1_25
+  - first:
+      213: -7874407519049207076
+    second: PARALLAXBKG_1_26
+  - first:
+      213: -2015677298744596915
+    second: PARALLAXBKG_1_27
+  - first:
+      213: -2742025348801743059
+    second: PARALLAXBKG_1_28
+  - first:
+      213: -6653944124274476331
+    second: PARALLAXBKG_1_29
+  - first:
+      213: -6276625952773714671
+    second: PARALLAXBKG_1_30
+  - first:
+      213: 4477525785408269705
+    second: PARALLAXBKG_1_31
+  - first:
+      213: -344385452217335044
+    second: PARALLAXBKG_1_32
+  - first:
+      213: -2702258638832706384
+    second: PARALLAXBKG_1_33
+  - first:
+      213: -6773940943407894891
+    second: PARALLAXBKG_1_34
+  - first:
+      213: -2440360751307720421
+    second: PARALLAXBKG_1_35
+  - first:
+      213: 8744906919331277024
+    second: PARALLAXBKG_1_36
+  - first:
+      213: 7790424207199413636
+    second: PARALLAXBKG_1_37
+  - first:
+      213: -6095949312940366257
+    second: PARALLAXBKG_1_38
+  - first:
+      213: 1024303275506590770
+    second: PARALLAXBKG_1_39
+  - first:
+      213: -8104161087345937580
+    second: PARALLAXBKG_1_40
+  - first:
+      213: -4409806278948524712
+    second: PARALLAXBKG_1_41
+  - first:
+      213: -3764371933201294521
+    second: PARALLAXBKG_1_42
+  - first:
+      213: 950423380831384455
+    second: PARALLAXBKG_1_43
+  - first:
+      213: -8998690236516276556
+    second: PARALLAXBKG_1_44
+  - first:
+      213: -6899794818563514777
+    second: PARALLAXBKG_1_45
+  - first:
+      213: -420031578166733543
+    second: PARALLAXBKG_1_46
+  - first:
+      213: 1516264216617371694
+    second: PARALLAXBKG_1_47
+  - first:
+      213: 4259746070864226030
+    second: PARALLAXBKG_1_48
+  - first:
+      213: -7274534090336069448
+    second: PARALLAXBKG_1_49
+  - first:
+      213: -5516926402760097353
+    second: PARALLAXBKG_1_50
+  - first:
+      213: -7905257779667609788
+    second: PARALLAXBKG_1_51
+  - first:
+      213: 4837412509639272678
+    second: PARALLAXBKG_1_52
+  - first:
+      213: 8397541448945480810
+    second: PARALLAXBKG_1_53
+  - first:
+      213: -6359682664966475899
+    second: PARALLAXBKG_1_54
+  - first:
+      213: -2979574126481461432
+    second: PARALLAXBKG_1_55
+  - first:
+      213: -306510355033613425
+    second: PARALLAXBKG_1_56
+  - first:
+      213: -2868420948053572837
+    second: PARALLAXBKG_1_57
+  - first:
+      213: 7842111706856449489
+    second: PARALLAXBKG_1_58
+  - first:
+      213: -5377840871463474912
+    second: PARALLAXBKG_1_59
+  - first:
+      213: 1525497241911725012
+    second: PARALLAXBKG_1_60
+  - first:
+      213: 4953396010068036763
+    second: PARALLAXBKG_1_61
+  - first:
+      213: 7517485870022040466
+    second: PARALLAXBKG_1_62
+  - first:
+      213: -322142151593389103
+    second: PARALLAXBKG_1_63
+  - first:
+      213: 2969337879799187035
+    second: PARALLAXBKG_1_64
+  - first:
+      213: 5965506396127522433
+    second: PARALLAXBKG_1_65
+  - first:
+      213: -4487829778648340383
+    second: PARALLAXBKG_1_66
+  - first:
+      213: 6238973419003096839
+    second: PARALLAXBKG_1_67
+  - first:
+      213: 265375760264640764
+    second: PARALLAXBKG_1_68
+  - first:
+      213: -4103267945938991120
+    second: PARALLAXBKG_1_69
+  - first:
+      213: -7371859507224520768
+    second: PARALLAXBKG_1_70
+  - first:
+      213: 355170887097800847
+    second: PARALLAXBKG_1_71
+  - first:
+      213: -8243645132850593414
+    second: PARALLAXBKG_1_72
+  - first:
+      213: 8826244347538274938
+    second: PARALLAXBKG_1_73
+  - first:
+      213: 1292231873560764403
+    second: PARALLAXBKG_1_74
+  - first:
+      213: -7415547433667687992
+    second: PARALLAXBKG_1_75
+  - first:
+      213: 7780088580847313520
+    second: PARALLAXBKG_1_76
+  - first:
+      213: -4449335237370118263
+    second: PARALLAXBKG_1_77
+  - first:
+      213: -2325048246386603801
+    second: PARALLAXBKG_1_78
+  - first:
+      213: 2991638348807950842
+    second: PARALLAXBKG_1_79
+  - first:
+      213: 3921002586938859790
+    second: PARALLAXBKG_1_80
+  - first:
+      213: 4970164078933396303
+    second: PARALLAXBKG_1_81
+  - first:
+      213: -2219191838427528931
+    second: PARALLAXBKG_1_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eb329d8bea53620800000000000000
+      internalID: 2753298856147140216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65a020ead8c41780800000000000000
+      internalID: -8713118536666405525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a557d118ff18ce420800000000000000
+      internalID: 2660644414251955546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de90df0f1c39b400800000000000000
+      internalID: 340369350950166224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feb764772d0290f0800000000000000
+      internalID: -1111811694899249424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ae0aa56a2c0f7f0800000000000000
+      internalID: -580750332189939070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3ecb2f5ca232600800000000000000
+      internalID: 442244218081829815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_7
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fdcd5ab37177310800000000000000
+      internalID: 1402615353902423942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_8
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fde2380d5a089930800000000000000
+      internalID: 4150078451307703801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_9
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5670548550384920800000000000000
+      internalID: 2974680697728431709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_10
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5e4970733bfc1c0800000000000000
+      internalID: -4481166055278582362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_11
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd16688389ba34c0800000000000000
+      internalID: -4306926119046210126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_12
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cf79db2ac71f5a0800000000000000
+      internalID: -6489268549656773500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_13
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a7d2f1f0fb30580800000000000000
+      internalID: -8862029570066515327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_14
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75be037c2379522c0800000000000000
+      internalID: -4456990011867206825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_15
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de079a399691cb70800000000000000
+      internalID: 8917574322027433687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_16
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7605c34efaee437c0800000000000000
+      internalID: -4092383722157092761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_17
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430a2d2b3be056ac0800000000000000
+      internalID: -3862664940438249420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_18
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edc619eb66700380800000000000000
+      internalID: -9007069048896827930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PARALLAXBKG_1_19
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca0faae2e84a30a0800000000000000
+      internalID: -6901123339554714935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5804fda9176db014285d26666ae40074
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PARALLAXBKG_1_0: 2753298856147140216
+      PARALLAXBKG_1_1: -8713118536666405525
+      PARALLAXBKG_1_10: -4481166055278582362
+      PARALLAXBKG_1_11: -4306926119046210126
+      PARALLAXBKG_1_12: -6489268549656773500
+      PARALLAXBKG_1_13: -8862029570066515327
+      PARALLAXBKG_1_14: -4456990011867206825
+      PARALLAXBKG_1_15: 8917574322027433687
+      PARALLAXBKG_1_16: -4092383722157092761
+      PARALLAXBKG_1_17: -3862664940438249420
+      PARALLAXBKG_1_18: -9007069048896827930
+      PARALLAXBKG_1_19: -6901123339554714935
+      PARALLAXBKG_1_2: 2660644414251955546
+      PARALLAXBKG_1_3: 340369350950166224
+      PARALLAXBKG_1_4: -1111811694899249424
+      PARALLAXBKG_1_5: -580750332189939070
+      PARALLAXBKG_1_6: 442244218081829815
+      PARALLAXBKG_1_7: 1402615353902423942
+      PARALLAXBKG_1_8: 4150078451307703801
+      PARALLAXBKG_1_9: 2974680697728431709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
